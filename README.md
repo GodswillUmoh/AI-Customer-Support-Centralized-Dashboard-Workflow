@@ -23,6 +23,12 @@ The system automatically processes customer requests submitted via Google Forms,
 ## Email Sample2
 <img width="1765" height="631" alt="Screenshot (748)" src="https://github.com/user-attachments/assets/806907c5-19fd-4015-b77d-35e7ed3f8ad1" />
 
+## Trello Ticketing Visual
+<img width="1510" height="1017" alt="Screenshot (745)" src="https://github.com/user-attachments/assets/646f3573-8cf2-4bf4-a08f-2c5567902d41" />
+
+## Centralized Dashboard
+<img width="1283" height="880" alt="Screenshot (751)" src="https://github.com/user-attachments/assets/76948b93-4f38-4fa5-9c05-8130fc384b7d" />
+
 
 ## Workflow Architecture
 
@@ -47,8 +53,8 @@ Google Sheets (Analytics Layer)
      ↓
 Looker Studio (Dashboard)
 
-## Trello Ticketing Visual
-<img width="1510" height="1017" alt="Screenshot (745)" src="https://github.com/user-attachments/assets/646f3573-8cf2-4bf4-a08f-2c5567902d41" />
+
+
 
 
 
