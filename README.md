@@ -17,8 +17,11 @@ The system automatically processes customer requests submitted via Google Forms,
 <img width="1579" height="963" alt="Screenshot (747)" src="https://github.com/user-attachments/assets/e2947736-fa71-4617-a384-29e68c35ccc3" />
 
 ## Email Sample Automated Message
+<img width="1796" height="639" alt="Screenshot (749)" src="https://github.com/user-attachments/assets/dc2874bd-2682-4d79-855d-4c85fd2b0375" />
+
 
 ## Email Sample2
+<img width="1765" height="631" alt="Screenshot (748)" src="https://github.com/user-attachments/assets/806907c5-19fd-4015-b77d-35e7ed3f8ad1" />
 
 
 ## Workflow Architecture
