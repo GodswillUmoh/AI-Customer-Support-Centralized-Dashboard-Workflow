@@ -48,6 +48,7 @@ Google Sheets (Analytics Layer)
 Looker Studio (Dashboard)
 
 ## Trello Ticketing Visual
+<img width="1510" height="1017" alt="Screenshot (745)" src="https://github.com/user-attachments/assets/646f3573-8cf2-4bf4-a08f-2c5567902d41" />
 
 
 
