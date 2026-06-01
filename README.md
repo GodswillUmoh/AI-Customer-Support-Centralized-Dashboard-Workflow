@@ -14,6 +14,11 @@ The system automatically processes customer requests submitted via Google Forms,
 
 ---
 ## Workflows in n8n
+<img width="1579" height="963" alt="Screenshot (747)" src="https://github.com/user-attachments/assets/e2947736-fa71-4617-a384-29e68c35ccc3" />
+
+## Email Sample Automated Message
+
+## Email Sample2
 
 
 ## Workflow Architecture
