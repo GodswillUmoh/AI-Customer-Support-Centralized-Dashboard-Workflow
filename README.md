@@ -46,3 +46,9 @@ Supabase (Data Storage)
 Google Sheets (Analytics Layer)
      ↓
 Looker Studio (Dashboard)
+
+## Trello Ticketing Visual
+
+
+
+
